@@ -8,4 +8,4 @@ CS 537 is organized into three broad units that align with our [Operating System
 
 1. Virtualization: mechanisms that enable multiple programs to share limited physical resources
 2. Concurrency: mechanisms that orchestrate the access of shared resources among threads of a program
-3. Persistence
+3. Persistence: when the system persists and stuff
